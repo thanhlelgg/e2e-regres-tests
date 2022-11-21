@@ -1,0 +1,6 @@
+node_modules
+mochawesome-report
+lib
+.DS_Store
+allure-report
+allure-results

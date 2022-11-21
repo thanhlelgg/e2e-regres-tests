@@ -1,0 +1,7 @@
+{
+  "require": "source-map-support/register",
+  "timeout": 30000,
+  "spec": "./lib/example/test/**/*.js",
+  "reporter": "mocha-multi-reporters",
+  "reporter-option": "configFile=reporterConfig.json"
+}
